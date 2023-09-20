@@ -31,12 +31,12 @@ body{
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color:#2e2f42;
 }
 
-a .link:hover .link:focus{
+ .link:hover .link:focus{
     
-    color: #404bbf;
+    color:#404bbf;
 }
 
 
@@ -47,14 +47,14 @@ a .link:hover .link:focus{
     line-height: 24px;
     letter-spacing: 0.02em;
     
-    background-color: #434455;
+    background-color:#434455;
 }   
 address{
     font-style: normal;
 }
  .page-nav .link :hover{
-color: #404bbf;
+color:#404bbf;
 }
 .page-nav .linc :focus{
-    color: #404bbf;
+    color:#404bbf;
 }
