@@ -30,9 +30,12 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42; 
+     
 }
-.section-link .link:hover
-.section-link .link:focus{
+.section-link.link{
+    color:#2e2f42
+}
+.section-link.link:hover,
+.section-link.link:focus{
 color:  #404bbf;
 }
