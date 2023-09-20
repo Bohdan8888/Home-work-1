@@ -22,7 +22,7 @@ body{
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color:#2e2f42;
+    color: #f4f4fd;
 }
  
 .section-link{
@@ -109,4 +109,7 @@ color:  #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:  #F4F4FD;
+}
+.footer{
+    background-color: #2e2f42;
 }
