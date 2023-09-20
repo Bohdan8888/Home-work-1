@@ -34,9 +34,8 @@ body{
     color:  #2e2f42;
 }
 
-.link:hover 
-.link:focus{
-    text-decoration: underline;
+.link:hover .link:focus{
+    
     color: #404bbf;
 }
 
