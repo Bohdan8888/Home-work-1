@@ -58,3 +58,26 @@ color:#404bbf;
 .page-nav .linc :focus{
     color:#404bbf;
 }
+.page-title-one{
+background-color:  #2e2f42;
+}
+h1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    color:#FFFFFF;
+}
+button{
+    background-color: #4D5AE5;
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+}
+button:hover button:focus{
+    background-color: #404BBF;
+}
