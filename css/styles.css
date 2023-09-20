@@ -46,9 +46,9 @@ body{
 address{
     font-style: normal;
 }
-.link :hover{
+ .page-nav .link :hover{
 color: #404bbf;
 }
-.linc :focus{
+.page-nav .linc :focus{
     color: #404bbf;
 }
