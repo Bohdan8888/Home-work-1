@@ -32,10 +32,10 @@ body{
     letter-spacing: 0.02em;
      
 }
-.first{
+a .plan-name{
     color:#2e2f42
 }
-.first .plan-name:hover,
-.first .plan-name:focus{
+a .plan-name:hover,
+a .plan-name:focus{
 color:  #404bbf;
 }
