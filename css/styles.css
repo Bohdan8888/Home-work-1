@@ -34,7 +34,7 @@ body{
     color:  #2e2f42;
 }
 
-.link:hover .link:focus{
+a .link:hover .link:focus{
     
     color: #404bbf;
 }
