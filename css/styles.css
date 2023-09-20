@@ -32,7 +32,7 @@ body{
     letter-spacing: 0.02em;
      
 }
-a .plan-name{
+#li-class{
     color:#2e2f42
 }
 a .plan-name:hover,
