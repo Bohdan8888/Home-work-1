@@ -52,24 +52,25 @@ body{
 address{
     font-style: normal;
 }
- .page-nav .link :hover{
+.link :hover{
 color:#404bbf;
 }
-.page-nav .linc :focus{
+.linc :focus{
     color:#404bbf;
 }
 .page-title-one{
 background-color:  #2e2f42;
 }
-h1{
+ .page-title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     color:#FFFFFF;
+    letter-spacing: 0.02em;
 }
-button{
+.type-button{
     background-color: #4D5AE5;
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -78,6 +79,7 @@ button{
     cursor: pointer;
     
 }
-button:hover button:focus{
+.type-button:hover
+ {
     background-color: #404BBF;
 }
