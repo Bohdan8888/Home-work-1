@@ -52,3 +52,24 @@ color:  #404bbf;
 .address-class:focus{
     color: #404bbf;
 }
+.page-title-one{
+    background-color:  #2e2f42;
+}
+.page-title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.type-button{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.type-button:hover,
+.type-button:focus{
+    color:  #404BBF;
+}
