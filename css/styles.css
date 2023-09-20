@@ -24,73 +24,15 @@ body{
     letter-spacing: 0.03em;
     color:#2e2f42;
 }
-
-.link-class{
-    
-    font-family: "Roboto" ,sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.link-class .link:hover
-.link-class .link:focus{
-    color: #404bbf;
-}
-
-
-.address  {
-    font-family: "Roboto" ,sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    
-    background-color:#434455;
-}   
-address{
-    font-style: normal;
-}
-.link :hover{
-color:#404bbf;
-}
-.linc :focus{
-    color:#404bbf;
-}
-.page-title-one{
-background-color:  #2e2f42;
-}
- .page-title{
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    color:#FFFFFF;
-    letter-spacing: 0.02em;
-}
-.type-button{
-    background-color: #4D5AE5;
-    font-family: "Roboto" ,sans-serif;
+ 
+.section-link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    cursor: pointer;
-    
-}
-.type-button:hover
- {
-    background-color: #404BBF;
-}
-h3 .section-two{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color: #2e2f42; 
 }
-p .section-paragraf{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.section-link .link:hover
+.section-link .link:focus{
+color:  #404bbf;
 }
