@@ -34,12 +34,12 @@ body{
     color:  #2e2f42;
 }
 
-.link :hover{
+.link:hover{
     text-decoration: underline;
     color: #404bbf;
 }
 
-.link :focus{
+.link:focus{
    box-align:  #404bbf; 
 }
 .address  {
