@@ -3,29 +3,17 @@ body{
     color:  #434455;
     font-family: "Roboto", sans-serif;
 }
-.nav-bar{
-    width: 1440px;
-    height: 72px;
-    border: 0px, 0px, 1px, 0px;
-    border-color: #E7E9FC;
-    color: #FFFFFF;
-}
-.nav-container{
-    height: inherit;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 
-
-}
 
 
  #web{
-    font-family: "Raleway"; 
+    font-family: "Raleway", sans-serif; 
     font-size: 18px;
     font-weight:700;
-    line-height:21px;
-    letter-spacing: 3%;
+    line-height:1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    background-color: #2E2F42;
     color: #4D5AE5;
 
 }
