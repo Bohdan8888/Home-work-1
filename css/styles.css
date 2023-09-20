@@ -35,7 +35,7 @@ body{
 .link{
     color:#2e2f42
 }
-.link .plan-name:hover,
-.link .plan-name:focus{
+.link:hover,
+.link:focus{
 color:  #404bbf;
 }
