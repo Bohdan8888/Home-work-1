@@ -13,19 +13,19 @@ body{
     line-height:1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    background-color: #4d5ae5;
+    color:#4d5ae5;
 
 }
-.studio{
+.studio-class{
     font-family: "Raleway", sans-serif; 
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color:  #2e2f42;
+    color:#2e2f42;
 }
 
-.link{
+.link-class{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -34,7 +34,7 @@ body{
     color:#2e2f42;
 }
 
- .link:hover .link:focus{
+ .link-class:hover .link-class:focus{
     
     color:#404bbf;
 }
