@@ -15,7 +15,9 @@ body{
     text-transform: uppercase;
     color:  #4d5ae5;
 }
-
+.studio{
+    color:#2e2f42;
+}
 .li-class-link{
     font-weight: 500;
     line-height: 1.5;
