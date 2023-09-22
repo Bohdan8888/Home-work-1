@@ -1,10 +1,8 @@
-.class-body{
-    font-family: "Roboto"sans-serif;
+
+body{
+    font-family: "Roboto",sans-serif;
     color: #434455;
     background-color:  #FFFFFF;
-}
-body{
-    font-family: "Roboto"sans-serif;
 }
 .logo-line-header{
     font-family: "Raleway",sans-serif;
@@ -53,7 +51,7 @@ body{
 }
 .type-button{
     background-color: #4D5AE5;
-    font-family: "Roboto"sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
