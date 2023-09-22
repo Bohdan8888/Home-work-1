@@ -49,8 +49,8 @@ body{
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.type-button:hover,
-.type-button:focus{
+.type-button:hover, .type-button:focus
+{
     color: #404bbf;
 }
 .type-button{
