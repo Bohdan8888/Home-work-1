@@ -21,6 +21,8 @@ body{
     text-transform: uppercase;
     color:  #4d5ae5;
     margin-right: 76px;
+    display: inline-block; 
+    margin-bottom: 16px;
 }
 .studio{
     color:#2e2f42;
@@ -124,11 +126,13 @@ body{
 
 .footer{
     background-color:  #2e2f42;
+    padding: 100px 0 100px;
 }
 .paragraf-footer{
     line-height: 1.5;
     color:  #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px; 
 }
 .studio-class{
     color:  #f4f4fd;
@@ -221,5 +225,5 @@ img{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-    
+
 }
