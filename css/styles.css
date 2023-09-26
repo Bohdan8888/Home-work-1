@@ -87,14 +87,18 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px; 
-    
+    text-align: center; 
+    margin-bottom: 8px;
 }
 .paragraf-class{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
+    
 }
 .section-thry{
     background-color: #F4F4FD;
+    padding: 120px 0 120px;
 }
 .zagolovok{
     font-size: 36px;
@@ -103,6 +107,8 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:  #2e2f42;
+    margin-bottom: 72px;
+
 }
 .img{
     background-color: #FFFFFF;
@@ -168,6 +174,21 @@ img{
 }
 
 .li-two{
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4)
+}
 
+.img-title-two{
+    display: flex;
+    gap: 24px;
+    margin-right: 24px 0px;
+
+}
+
+.img{
+    width: calc((100% - 72px) / 4); 
+    border-radius: 0px 0px 4px 4px;
+}
+
+.name{
+    padding: 32px 0 32px;
 }
