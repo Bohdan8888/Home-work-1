@@ -132,8 +132,14 @@ img{
     align-items: center;
 
 }
-.menu{
+.li-flex{
     display: flex; 
-    margin-right: 40px;
+    gap: 40px;
+    margin-right: 40px 0px;
 
+}
+.adress-title{
+    display: flex; 
+    gap: 40px;
+    margin-right: 40px 0px;
 }
