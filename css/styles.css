@@ -176,7 +176,7 @@ img{
     padding: 120px 0 120px;  
 }
 .zagolovok-two{
- display: hidden;  
+    visibility: hidden; 
 }
 
 .ul-two{
