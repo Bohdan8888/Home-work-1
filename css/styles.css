@@ -86,6 +86,8 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px; 
+    
 }
 .paragraf-class{
     line-height: 1.5;
@@ -150,4 +152,22 @@ img{
     display: flex; 
     gap: 40px;
     margin-right: 40px 0px;
+}
+
+.section-two{
+    padding: 120px 0 120px;  
+}
+.zagolovok-two{
+ display: hidden;  
+}
+
+.ul-two{
+    display: flex;
+    gap: 24px; 
+    margin-right: 24px 0px;
+}
+
+.li-two{
+    width: calc((100% - 72px) / 4);
+
 }
