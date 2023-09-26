@@ -175,9 +175,25 @@ img{
 .section-two{
     padding: 120px 0 120px;  
 }
- .visually-hidden{
-  visibility: hidden;
-}
+ .visually-hidden {
+    position: absolute !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    clip: rect(0 0 0 0) !important;
+    clip-path: inset(100%) !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    text-indent: -9999px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+  }
 
 .ul-two{
     display: flex;
