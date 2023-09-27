@@ -202,9 +202,6 @@ img{
     
 }
 
-.li-two{
-    width: calc((100% - 72px) / 4);
-}
 
 .img-title-two{
     display: flex;
