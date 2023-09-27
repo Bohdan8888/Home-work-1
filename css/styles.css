@@ -164,7 +164,7 @@ img{
     display: flex; 
     gap: 40px;
     margin-right: 40px 0px;
-
+    width: calc((100% - 72px) / 4);
 }
 .adress-title{
     display: flex; 
