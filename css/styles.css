@@ -201,7 +201,9 @@ img{
     margin-right: 24px 0px;
     
 }
-
+.li-two{
+    width: calc((100% - 72px) / 4);
+}
 
 .img-title-two{
     display: flex;
