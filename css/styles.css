@@ -164,7 +164,7 @@ img{
     display: flex; 
     gap: 40px;
     margin-right: 40px 0px;
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 3);
 }
 .adress-title{
     display: flex; 
@@ -199,11 +199,11 @@ img{
     display: flex;
     gap: 24px; 
     margin-right: 24px 0px;
-    flex-basis: calc((100% - 72px) / 4)
+    
 }
 
 .li-two{
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 3);
 }
 
 .img-title-two{
