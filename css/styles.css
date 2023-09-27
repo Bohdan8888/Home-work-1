@@ -210,13 +210,13 @@ img{
     display: flex;
     gap: 24px;
     margin-right: 24px 0px;
-    width: calc((100% - 72px) / 4);
+   
 }
 
 
 
 .img{
-    width: calc((100% - 72px) / 4); 
+   
     border-radius: 0px 0px 4px 4px;
 }
 
@@ -234,7 +234,7 @@ img{
     column-gap: 24px;
     margin-right: 24px 0;
     row-gap: 48px;
-    width: calc((100% - 72px) / 4);
+   
 }
 .li-four{
     width: calc((100% - 48px) / 3); 
