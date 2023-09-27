@@ -163,13 +163,13 @@ img{
 .li-flex{
     display: flex; 
     gap: 40px;
-    margin-right: 40px 0px;
+    margin-right: 40px;
     width: calc((100% - 48px) / 3); 
 }
 .adress-title{
     display: flex; 
     gap: 40px;
-    margin-right: 40px 0px;
+    margin-right: 40px;
 }
 
 .section-two{
@@ -198,7 +198,7 @@ img{
 .ul-two{
     display: flex;
     gap: 24px; 
-    margin-right: 24px 0px;
+    margin-right: 24px;
     
 }
 .li-two{
@@ -208,7 +208,7 @@ img{
 .img-title-two{
     display: flex;
     gap: 24px;
-    margin-right: 24px 0px;
+    margin-right: 24px;
    
 }
 
@@ -231,7 +231,7 @@ img{
     display: flex;
     flex-wrap: wrap;  
     column-gap: 24px;
-    margin-right: 24px 0;
+    margin-right: 24px;
     row-gap: 48px;
    
 }
