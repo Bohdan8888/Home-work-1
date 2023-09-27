@@ -203,15 +203,17 @@ img{
 }
 
 .li-two{
-    flex-basis: calc((100% - 72px) / 4)
+    width: calc((100% - 72px) / 4);
 }
 
 .img-title-two{
     display: flex;
     gap: 24px;
     margin-right: 24px 0px;
-
+    width: calc((100% - 72px) / 4);
 }
+
+
 
 .img{
     width: calc((100% - 72px) / 4); 
@@ -232,6 +234,7 @@ img{
     column-gap: 24px;
     margin-right: 24px 0;
     row-gap: 48px;
+    width: calc((100% - 72px) / 4);
 }
 .li-four{
     width: calc((100% - 48px) / 3); 
