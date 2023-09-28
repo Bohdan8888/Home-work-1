@@ -255,3 +255,7 @@ img{
 .li-fore{
     width: calc((100% - 48px) / 3); 
 }
+
+.ul-thry{
+    width: calc((100% - 48px) / 3); 
+}
