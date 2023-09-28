@@ -161,9 +161,7 @@ img{
 
 }
 .li-flex{
-    display: flex; 
-    gap: 40px;
-    margin-right: 40px;
+   
     width: calc((100% - 48px) / 3); 
 }
 .adress-title{
