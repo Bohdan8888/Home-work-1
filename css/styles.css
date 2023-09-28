@@ -218,7 +218,7 @@ img{
 
 
 
-.img-li{
+.img{
    
     border-radius: 0px 0px 4px 4px; 
     flex-basis: calc((100% - 72px) / 4);
@@ -256,4 +256,6 @@ img{
     width: calc((100% - 48px) / 3);
 
 }
-
+.container{
+    width: calc((100% - 72px) / 4);
+}
