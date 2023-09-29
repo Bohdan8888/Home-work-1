@@ -199,8 +199,9 @@ img{
 
 .ul-two{
     display: flex;
-    gap: 24px; 
-    margin-right: 24px;
+    gap: 24px;
+    padding-left: 0;
+    margin: 0;
     
 }
 .li-two{
@@ -211,8 +212,10 @@ img{
 
 .img-title-two{
     display: flex;
+    justify-content: center;
     gap: 24px;
-    margin-right: 24px;
+    padding: 0;
+    margin: 0;
    
 }
 
@@ -238,7 +241,7 @@ img{
     column-gap: 24px;
     margin-right: 24px;
     row-gap: 48px;
-   
+    padding: 0;
 }
  
 
@@ -248,7 +251,7 @@ img{
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-
+    
 }
 
 .li-fore{
@@ -256,6 +259,4 @@ img{
     width: calc((100% - 48px) / 3);
 
 }
-.container{
-    width: calc((100% - 72px) / 4);
-}
+
