@@ -213,6 +213,23 @@ img{
     margin-right: 40px;
 }
 
+.paragraf-class-section-one{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.title-h-thry-section-one{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    margin-bottom: 8px; 
+    text-align: left; 
+    margin-bottom: 8px;   
+}
+
 .section-two{
     padding: 120px 0 120px;  
 }
