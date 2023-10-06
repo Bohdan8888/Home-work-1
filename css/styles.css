@@ -56,6 +56,12 @@ body{
     color: #2e2f42; 
     padding: 24px 0; 
     display: block;
+    
+}
+address > ul > li > a{
+    display: block;
+    font-weight: 400;
+    letter-spacing: 0.02em;
 }
 .li-class-link:hover,
 .li-class-link:focus{
@@ -78,6 +84,11 @@ body{
 .section-one{
     background-color:  #2e2f42;
     padding: 188px 0 188px;
+    background-image:  linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+    url(/images/people-office\ 1.jpg);
+  background-repeat: no-repeat;
+ background-position: center center;
+ background-size: contain;
 
 }
 .title-one{
@@ -209,6 +220,7 @@ img{
     margin: 0;
     padding: 0;
     list-style: none;
+   
   
 }
 .adress-title{
