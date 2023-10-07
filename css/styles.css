@@ -34,7 +34,7 @@ body{
     color:  #4d5ae5;
     margin-right: 76px;
     display: inline-block; 
-    padding: 24px 24px;
+    
     
 }
 .studio{
@@ -66,7 +66,8 @@ address > ul > li > a{
     letter-spacing: 0.02em;
 }
 .li-class-link:hover,
-.li-class-link:focus{
+.li-class-link:focus,
+.nav-li-a-first:active{
     color:  #404bbf;
 }
 .class-adress{
@@ -125,6 +126,7 @@ address > ul > li > a{
 }
 
 .container .section-one-efective{
+    display: flex;
     max-width: 496px;
     text-align: center;
     padding: 0;
@@ -141,6 +143,8 @@ address > ul > li > a{
     letter-spacing: 0.02em;
     text-align: center;
     margin: 0;
+   
+   
 }
 
 
@@ -259,18 +263,15 @@ img{
 }
 .nav{
     display: flex;
-    gap: 40px;
-    margin: 0;
-    padding: 0;
+    align-items: center;
 
 }
 .li-flex{
     
-    display: flex; 
+    display: flex;
     gap: 40px;
     margin: 0;
     padding: 0;
-    list-style: none;
    
   
 }
