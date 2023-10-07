@@ -401,6 +401,10 @@ img{
 
 }
 
+.li-fore-section:hover .paragraf-hiden{
+    transform: translateY(0%); 
+} 
+
 .li-fore-section{
 
     width: calc((100% - 48px) / 3);
