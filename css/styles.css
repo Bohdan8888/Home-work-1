@@ -509,3 +509,11 @@ img{
     border-radius: 4px;
     margin-bottom: 8px;
 }
+
+.container-footer{
+    display: flex;
+    align-items: baseline; 
+}
+.wraper-logo{
+    margin-right: 120px; 
+}
