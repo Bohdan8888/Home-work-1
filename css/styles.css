@@ -440,6 +440,13 @@ img{
     gap: 24px;
 }
 
+.icon-social-list-footer{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    gap: 24px; 
+}
+
 .icon-link{
     display: flex;
     gap: 16px;
