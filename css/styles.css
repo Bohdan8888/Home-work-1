@@ -76,7 +76,12 @@ address > ul > li > a{
 
 }
 
-.class-adress-li::after {
+.current{
+    position: relative;
+    color: #404bbf; 
+}
+
+.current::after {
     content: "";
     position: absolute;
     left: 0;
@@ -118,11 +123,19 @@ address > ul > li > a{
 
 
 }
+
+.container .section-one-efective{
+    max-width: 496px;
+    text-align: center;
+    padding: 0;
+   
+}
+
 .title-one{
     font-size: 56px;
-    line-height: 1.7;
+    line-height: 1.07143;
     font-weight: 700;
-    color: #FFFF;
+    color: #fff;
     max-width: 496px;
     line-height: 1.07;
     letter-spacing: 0.02em;
