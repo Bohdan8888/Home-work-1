@@ -437,7 +437,7 @@ img{
     display: flex;
     justify-content: center;
     padding: 0;
-    gap: 16px;
+    gap: 24px;
 }
 
 .icon-link{
