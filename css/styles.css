@@ -467,3 +467,12 @@ img{
     margin-bottom: 16px;
 }
 
+.container-svg-sprite{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    height: 112px; 
+    background-color: #f4f4fd; 
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
