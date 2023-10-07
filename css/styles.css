@@ -526,7 +526,7 @@ img{
 .wraper-logo{
     margin-right: 120px; 
 }
-.icon-link:hover,
-.icon-link:focus{
+.footer > .container-footer > .container-linc> .icon-social-list-footer > .li-link > .icon-link:hover,
+.footer > .container-footer > .container-linc> .icon-social-list-footer > .li-link > .icon-link:focus{
     background-color: #31d0aa;
 }
